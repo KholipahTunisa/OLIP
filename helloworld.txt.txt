@@ -1,2 +1,3 @@
 Name: Oll
 Adress: Bandung
+Phone: 08989999
